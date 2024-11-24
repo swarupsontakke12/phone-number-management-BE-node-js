@@ -25,6 +25,9 @@ The backend includes authentication functionality, secured with a SECRET_KEY for
 ##  Running the Project
 npm run dev
 
-
+## Implemented two apis 
+BASE_URI:- http://localhost:3000/api/phones
+1. get Al Data (/)
+2. Filter no on status (/filter-numbers)
 
    
